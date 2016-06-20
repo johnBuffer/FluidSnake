@@ -1,0 +1,8 @@
+*.exe
+*.dll
+FluidSnake.depend
+*.layout
+obj/Release/EventProvider.o
+*.o
+replay
+*.cbp
